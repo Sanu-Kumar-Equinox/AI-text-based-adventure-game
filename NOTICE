@@ -1,66 +1,57 @@
-THIRD-PARTY ATTRIBUTIONS
+THE UNKNOWN WORLD
+Third-party attribution and licence notices
 
-The Unknown World uses third-party AI models and software.
+This project builds upon the work of the following creators and communities.
 
-1. LLAMA 3.2
-
+LLAMA 3.2
 Original developer: Meta Platforms, Inc.
-
-Llama 3.2 is licensed under the Llama 3.2 Community License.
-
-Copyright © Meta Platforms, Inc. All Rights Reserved.
-
-Official licence:
-https://dev.meta.ai/llama/llama3_2/license
-
+Licence: Llama 3.2 Community License
 Original model:
 https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
 
-This project uses a separately obtained GGUF conversion. Its converter and distributor must be credited according to the applicable terms of that specific distribution.
+The original model weights are not included in this repository.
 
-2. TINY SD
+The GGUF conversion used by an individual installation may have a separate publisher and distribution licence. Its applicable attribution and terms must also be respected.
 
-Developer: Segmind.
-
+TINY SD
+Developer: Segmind
 Model:
 https://huggingface.co/segmind/tiny-sd
+Licence: CreativeML OpenRAIL-M
 
-Licence: CreativeML OpenRAIL-M.
-
-3. LLAMA.CPP
-
+LLAMA.CPP
 Project:
 https://github.com/ggml-org/llama.cpp
 
-4. LLAMA-CPP-PYTHON
-
+LLAMA-CPP-PYTHON
 Project:
 https://github.com/abetlen/llama-cpp-python
+Licence: MIT
 
-Licence: MIT.
-
-5. HUGGING FACE DIFFUSERS
-
+HUGGING FACE DIFFUSERS
 Project:
 https://github.com/huggingface/diffusers
+Licence: Apache License 2.0
 
-Licence: Apache License 2.0.
+TRANSFORMERS AND HUGGING FACE HUB
+Projects:
+https://github.com/huggingface/transformers
+https://github.com/huggingface/huggingface_hub
 
-6. PYTORCH
-
+PYTORCH
 Project:
 https://github.com/pytorch/pytorch
 
-7. RICH
-
+RICH
 Project:
 https://github.com/Textualize/rich
 
-8. PILLOW
-
+PILLOW
 Project:
 https://github.com/python-pillow/Pillow
 
-All third-party trademarks, models and materials remain the property of their respective owners.
+All original creators retain ownership of their respective work.
 
-This project is independent and is not officially affiliated with or endorsed by the organisations listed above.
+The Unknown World is an independent project and is not officially affiliated with or endorsed by the organisations listed above.
+
+These notices do not replace the original licences. Users should consult the original licence documents for the complete terms and conditions.
