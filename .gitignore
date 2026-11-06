@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# AI model weights
+AI/*.gguf
+AI/*.safetensors
+AI/*.bin
+AI/*.pt
+AI/*.pth
+AI/*.ckpt
+
+# Generated images
+generated_images/
+
+# Hugging Face caches
+.cache/
+huggingface_cache/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
