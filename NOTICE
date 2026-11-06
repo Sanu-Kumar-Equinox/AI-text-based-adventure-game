@@ -1,0 +1,66 @@
+THIRD-PARTY ATTRIBUTIONS
+
+The Unknown World uses third-party AI models and software.
+
+1. LLAMA 3.2
+
+Original developer: Meta Platforms, Inc.
+
+Llama 3.2 is licensed under the Llama 3.2 Community License.
+
+Copyright © Meta Platforms, Inc. All Rights Reserved.
+
+Official licence:
+https://dev.meta.ai/llama/llama3_2/license
+
+Original model:
+https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct
+
+This project uses a separately obtained GGUF conversion. Its converter and distributor must be credited according to the applicable terms of that specific distribution.
+
+2. TINY SD
+
+Developer: Segmind.
+
+Model:
+https://huggingface.co/segmind/tiny-sd
+
+Licence: CreativeML OpenRAIL-M.
+
+3. LLAMA.CPP
+
+Project:
+https://github.com/ggml-org/llama.cpp
+
+4. LLAMA-CPP-PYTHON
+
+Project:
+https://github.com/abetlen/llama-cpp-python
+
+Licence: MIT.
+
+5. HUGGING FACE DIFFUSERS
+
+Project:
+https://github.com/huggingface/diffusers
+
+Licence: Apache License 2.0.
+
+6. PYTORCH
+
+Project:
+https://github.com/pytorch/pytorch
+
+7. RICH
+
+Project:
+https://github.com/Textualize/rich
+
+8. PILLOW
+
+Project:
+https://github.com/python-pillow/Pillow
+
+All third-party trademarks, models and materials remain the property of their respective owners.
+
+This project is independent and is not officially affiliated with or endorsed by the organisations listed above.
