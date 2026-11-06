@@ -1,0 +1,9 @@
+torch
+llama-cpp-python
+diffusers
+transformers
+huggingface-hub
+accelerate
+safetensors
+rich
+pillow
