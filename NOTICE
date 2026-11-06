@@ -1,7 +1,8 @@
-THE UNKNOWN WORLD
-Third-Party Models and Software
 
-This project uses the following third-party components.
+THE UNKNOWN WORLD
+AI Models, Their Creators, and Open-Source Projects
+
+This project builds upon the work of the following creators and communities.
 
 LLAMA 3.2
 Original developer: Meta Platforms, Inc.
@@ -20,6 +21,7 @@ Project:
 https://github.com/ggml-org/llama.cpp
 
 The original model weights are not included in this repository.
-The GGUF conversion may have a separate publisher and licensing terms.
 
-Each third-party component remains subject to its own license.
+The GGUF conversion used by an individual installation may have a separate publisher and additional licensing terms.
+
+Each model and software project remains subject to its own license.
