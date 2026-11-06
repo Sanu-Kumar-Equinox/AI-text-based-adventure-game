@@ -1,4 +1,3 @@
-torch
 llama-cpp-python
 diffusers
 transformers
