@@ -1,8 +1,9 @@
+torch
 llama-cpp-python
 diffusers
 transformers
-huggingface-hub
 accelerate
 safetensors
+huggingface_hub
 rich
 pillow
